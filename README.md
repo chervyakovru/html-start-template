@@ -8,3 +8,4 @@ Lightweight startup HTML5 template, based on Gulp.
 * Clone or [Download](http://github.com/chervyakovru/html-start-template/archive/master.zip) HTML5 template from GitHub
 * Install Node Modules: `npm i`
 * Run: `npm run start`
+* For build project run: `npm run build`
